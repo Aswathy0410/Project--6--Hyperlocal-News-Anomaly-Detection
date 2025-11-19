@@ -24,11 +24,17 @@ A fast, lightweight NLP & anomaly detection system for analyzing local news arti
 
 project/
 │── data/
+
 │    └── Articles.csv
+
 │── models/
+
 │── app.py
+
 │── train.py
+
 │── requirements.txt
+
 │── README.md
 
 
